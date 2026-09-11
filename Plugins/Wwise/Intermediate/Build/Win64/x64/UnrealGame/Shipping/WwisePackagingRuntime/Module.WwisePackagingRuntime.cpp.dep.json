@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwisepackagingruntime\\module.wwisepackagingruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\intermediate\\build\\win64\\x64\\esame_unreal_3\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwisepackagingruntime\\definitions.wwisepackagingruntime.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwiseassetlibraryfilter.gen.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwiseassetlibraryfilter.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwiseassetlibraryinfo.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwiseassetlibraryinfo.generated.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwiseassetlibraryfilter.generated.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwiseassetlibraryinfo.gen.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwisefilterableassetlibrary.gen.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwisefilterableassetlibrary.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\wwiseunrealversion.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwisefilterableassetlibrary.generated.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwisepackagingruntime.init.gen.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwisesharedassetlibraryfilter.gen.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwisesharedassetlibraryfilter.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwisesharedassetlibraryfilter.generated.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\private\\wwise\\packaging\\wwiseassetlibraryinfo.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\stats\\packagingruntime.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\private\\wwise\\stats\\packagingruntime.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\private\\wwise\\wwisepackagingruntimemoduleimpl.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\wwisepackagingruntimemoduleimpl.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\wwisepackagingruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+"C:/Users/studente/Documents/GitHub/Esame_Unreal_3/Plugins/Wwise/Intermediate/Build/Win64/x64/UnrealGame/Shipping/WwiseEngineUtils/Module.WwiseEngineUtils.cpp"
+@"C:/Users/studente/Documents/GitHub/Esame_Unreal_3/Plugins/Wwise/Intermediate/Build/Win64/x64/UnrealGame/Shipping/WwiseEngineUtils/WwiseEngineUtils.Shared.rsp"
+/FI"C:/Users/studente/Documents/GitHub/Esame_Unreal_3/Intermediate/Build/Win64/x64/Esame_Unreal_3/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/studente/Documents/GitHub/Esame_Unreal_3/Plugins/Wwise/Intermediate/Build/Win64/x64/UnrealGame/Shipping/WwiseEngineUtils/Definitions.WwiseEngineUtils.h"
+/Yu"C:/Users/studente/Documents/GitHub/Esame_Unreal_3/Intermediate/Build/Win64/x64/Esame_Unreal_3/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/studente/Documents/GitHub/Esame_Unreal_3/Intermediate/Build/Win64/x64/Esame_Unreal_3/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/studente/Documents/GitHub/Esame_Unreal_3/Plugins/Wwise/Intermediate/Build/Win64/x64/UnrealGame/Shipping/WwiseEngineUtils/Module.WwiseEngineUtils.cpp.obj"
+/experimental:log "C:/Users/studente/Documents/GitHub/Esame_Unreal_3/Plugins/Wwise/Intermediate/Build/Win64/x64/UnrealGame/Shipping/WwiseEngineUtils/Module.WwiseEngineUtils.cpp.sarif"
+/sourceDependencies "C:/Users/studente/Documents/GitHub/Esame_Unreal_3/Plugins/Wwise/Intermediate/Build/Win64/x64/UnrealGame/Shipping/WwiseEngineUtils/Module.WwiseEngineUtils.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

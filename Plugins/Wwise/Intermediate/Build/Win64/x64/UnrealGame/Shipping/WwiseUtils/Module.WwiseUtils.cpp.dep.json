@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwiseutils\\module.wwiseutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\intermediate\\build\\win64\\x64\\esame_unreal_3\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwiseutils\\definitions.wwiseutils.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\private\\wwiseunrealhelper.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\public\\wwiseunrealhelper.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\public\\wwise\\stats\\global.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\private\\wwise\\stats\\global.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\private\\wwise\\stats\\memory.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\public\\wwise\\stats\\memory.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\hal\\lowlevelmemstats.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\wwiseunrealversion.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\launch\\resources\\version.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

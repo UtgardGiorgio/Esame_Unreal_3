@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwiseconcurrency\\module.wwiseconcurrency.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\intermediate\\build\\win64\\x64\\esame_unreal_3\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwiseconcurrency\\definitions.wwiseconcurrency.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\private\\wwise\\stats\\concurrency.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\public\\wwise\\stats\\concurrency.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\stats\\namedevents.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\private\\wwise\\wwiseconcurrencymoduleimpl.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\public\\wwise\\wwiseconcurrencymoduleimpl.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\public\\wwise\\wwiseconcurrencymodule.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\public\\wwise\\wwiseexecutionqueue.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\public\\wwise\\wwisetask.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\wwiseunrealversion.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\launch\\resources\\version.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\private\\wwise\\wwisedeferredqueue.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\public\\wwise\\wwisedeferredqueue.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\public\\wwise\\stats\\asyncstats.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\hal\\threadmanager.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\private\\wwise\\wwiseexecutionqueue.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\public\\wwiseuefeatures.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\public\\wwiseunrealdefines.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\inttypes.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\private\\wwise\\wwiseretriggerableasynctask.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\public\\wwise\\wwiseretriggerableasynctask.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\public\\wwiseunrealhelper.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\tests\\executionqueuetests.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\public\\wwise\\wwiseunittests.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\tests\\testharnessadapter.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\misc\\lowleveltestadapter.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseconcurrency\\tests\\futuretests.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

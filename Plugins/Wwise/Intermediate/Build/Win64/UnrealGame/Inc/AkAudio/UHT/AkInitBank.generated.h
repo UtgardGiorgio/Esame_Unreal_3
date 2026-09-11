@@ -1,0 +1,65 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "AkInitBank.h"
+
+#ifdef AKAUDIO_AkInitBank_generated_h
+#error "AkInitBank.generated.h already included, missing '#pragma once' in AkInitBank.h"
+#endif
+#define AKAUDIO_AkInitBank_generated_h
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ReflectedTypeAccessors.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
+// ********** Begin Class UAkInitBank **************************************************************
+#define FID_Users_studente_Documents_GitHub_Esame_Unreal_3_Plugins_Wwise_Source_AkAudio_Classes_AkInitBank_h_34_ARCHIVESERIALIZER \
+	DECLARE_FSTRUCTUREDARCHIVE_SERIALIZER(UAkInitBank, NO_API)
+
+
+struct Z_Construct_UClass_UAkInitBank_Statics;
+AKAUDIO_API UClass* Z_Construct_UClass_UAkInitBank(ETypeConstructPhase);
+
+#define FID_Users_studente_Documents_GitHub_Esame_Unreal_3_Plugins_Wwise_Source_AkAudio_Classes_AkInitBank_h_34_INCLASS_NO_PURE_DECLS \
+private: \
+	friend struct ::Z_Construct_UClass_UAkInitBank_Statics; \
+	friend AKAUDIO_API UClass* ::Z_Construct_UClass_UAkInitBank(ETypeConstructPhase); \
+public: \
+	DECLARE_CLASS2(UAkInitBank, UAkAudioType, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/AkAudio"), Z_Construct_UClass_UAkInitBank) \
+	DECLARE_SERIALIZER(UAkInitBank) \
+	FID_Users_studente_Documents_GitHub_Esame_Unreal_3_Plugins_Wwise_Source_AkAudio_Classes_AkInitBank_h_34_ARCHIVESERIALIZER
+
+
+#define FID_Users_studente_Documents_GitHub_Esame_Unreal_3_Plugins_Wwise_Source_AkAudio_Classes_AkInitBank_h_34_ENHANCED_CONSTRUCTORS \
+	/** Deleted move- and copy-constructors, should never be used */ \
+	UAkInitBank(UAkInitBank&&) = delete; \
+	UAkInitBank(const UAkInitBank&) = delete; \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAkInitBank); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAkInitBank); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UAkInitBank) \
+	NO_API virtual ~UAkInitBank();
+
+
+#define FID_Users_studente_Documents_GitHub_Esame_Unreal_3_Plugins_Wwise_Source_AkAudio_Classes_AkInitBank_h_31_PROLOG
+#define FID_Users_studente_Documents_GitHub_Esame_Unreal_3_Plugins_Wwise_Source_AkAudio_Classes_AkInitBank_h_34_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_studente_Documents_GitHub_Esame_Unreal_3_Plugins_Wwise_Source_AkAudio_Classes_AkInitBank_h_34_INCLASS_NO_PURE_DECLS \
+	FID_Users_studente_Documents_GitHub_Esame_Unreal_3_Plugins_Wwise_Source_AkAudio_Classes_AkInitBank_h_34_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+class UAkInitBank;
+
+// ********** End Class UAkInitBank ****************************************************************
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Users_studente_Documents_GitHub_Esame_Unreal_3_Plugins_Wwise_Source_AkAudio_Classes_AkInitBank_h
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

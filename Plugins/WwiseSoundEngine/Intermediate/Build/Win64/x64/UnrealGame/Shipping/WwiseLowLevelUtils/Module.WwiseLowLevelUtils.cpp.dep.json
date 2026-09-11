@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwiselowlevelutils\\module.wwiselowlevelutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\intermediate\\build\\win64\\x64\\esame_unreal_3\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwiselowlevelutils\\definitions.wwiselowlevelutils.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\private\\wwise\\stats\\namedevents.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\stats\\namedevents.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

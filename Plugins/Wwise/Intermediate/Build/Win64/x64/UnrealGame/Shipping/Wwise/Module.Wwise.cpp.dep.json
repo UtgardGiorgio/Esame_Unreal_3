@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwise\\module.wwise.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\studente\\documents\\github\\esame_unreal_3\\intermediate\\build\\win64\\x64\\esame_unreal_3\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwise\\definitions.wwise.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwise\\private\\wwise\\stats\\wwise.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwise\\public\\wwise\\stats\\wwise.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\stats\\namedevents.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwise\\private\\wwise\\wwisemodule.cpp",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\source\\wwisesoundengine\\public\\wwisedefines.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseutils\\public\\wwiseunrealdefines.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\wwiseunrealversion.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\wwisepackagingruntimemoduleimpl.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\wwisepackagingruntimemodule.h",
+            "c:\\users\\studente\\documents\\github\\esame_unreal_3\\plugins\\wwise\\source\\wwiseaudiolinkruntime\\public\\wwise\\wwiseaudiolinkruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
